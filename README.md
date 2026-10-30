@@ -6,3 +6,9 @@ A new login feature has been added.
 - Login Button
 
 This feature is developed in the feature-login branch.This repository is created to demonstrate Git branching.
+## Git Practical
+
+- Created feature-login branch
+- Modified README file
+- Committed changes
+- Pushed branch to GitHub
